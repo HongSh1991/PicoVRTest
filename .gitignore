@@ -17,3 +17,5 @@
 /testTeleport/Assets/Pvr_TouchPad
 /testTeleport/Assets/Pvr_UnitySDK
 /testTeleport/Assets/Pvr_VolumePowerBrightness
+/testTeleport/*.sln
+/testTeleport/*.csproj
