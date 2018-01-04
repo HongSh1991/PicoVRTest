@@ -1,3 +1,19 @@
 /testTeleport/Library
 
 /testTeleport/ProjectSettings
+/testTeleport/Temp
+/testTeleport/Assets/*.meta
+/testTeleport/Assets/Teleporter
+/testTeleport/Assets/Scene
+/testTeleport/Assets/Skyboxes MegaPack 1
+/testTeleport/Assets/InputController
+/testTeleport/Assets/Material
+/testTeleport/Assets/Plugins
+/testTeleport/Assets/Pvr_Audio3D
+/testTeleport/Assets/Pvr_Controller
+/testTeleport/Assets/Pvr_ExtraSensor
+/testTeleport/Assets/Pvr_Haptics
+/testTeleport/Assets/Pvr_Payment
+/testTeleport/Assets/Pvr_TouchPad
+/testTeleport/Assets/Pvr_UnitySDK
+/testTeleport/Assets/Pvr_VolumePowerBrightness
