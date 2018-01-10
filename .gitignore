@@ -35,3 +35,8 @@ Library
 /01-09/Assets/Pvr_UnitySDK
 /01-09/Assets/Pvr_VolumePowerBrightness
 /01-09/*.csproj
+/01-09/Assets/*.meta
+/01-09/Assets/*.meta
+/01-09/Assets/u_Scenes/*.meta
+/01-09/Assets/u_Scenes/*.unity
+/01-09/Assets/u_Scenes/气举采油系统效率实验
